@@ -13,8 +13,8 @@
   "author": "Joe Wroten <joe@wroten.me> (https://www.wroten.me/)",
   "license": "MIT",
   "dependencies": {
+    "commander": "^2.20.3",
     "chalk": "^2.4.2",
-    "commander": "^2.19.0",
     "winston": "^3.5.1",
     "winston-daily-rotate-file": "^3.10.0"
   },
